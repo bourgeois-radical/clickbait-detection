@@ -5,6 +5,9 @@ __pycache__/
 
 # Don't track .txt files
 *.txt
+# except for
+!requirements.txt
+
 
 # Don't track .pdf files
 *.pdf
