@@ -7,7 +7,7 @@ import torch.nn as nn
 
 
 class RNN(nn.Module):
-    """PyTorch RNN/LSTM model with dropouts (no dropouts if p=0)"""
+    """PyTorch LSTM model with dropouts (no dropouts if p=0)"""
 
     def __init__(self, vocab_size: int, embed_dim: int, rnn_hidden_size: int, fc_hidden_size: int, p_fc1: float = 0, \
                  p_fc2: float = 0, bidirec: bool = False) -> None:
