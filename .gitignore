@@ -19,7 +19,7 @@ __pycache__/
 # Don't track any .pkl files. 
 *.pkl
 
-#
+# See Google.Drive link in README to download the model and the training/test data
 model_with_dropouts
 clickbait_no
 clickbait_yes

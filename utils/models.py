@@ -1,7 +1,7 @@
-# built-in libraries
+# built-in
 from typing import List
 
-# installed libraries
+# installed
 import torch
 import torch.nn as nn
 

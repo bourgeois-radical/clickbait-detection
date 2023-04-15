@@ -1,11 +1,11 @@
-# built-in libraries
+# built-in
 from typing import Dict
 
-# installed libraries
+# installed
 import torch
 import numpy as np
 
-# local libraries
+# local
 from utils.models import RNN
 from utils.preprocessing import Preprocess
 

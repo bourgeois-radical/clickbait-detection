@@ -1,8 +1,8 @@
-# built-in libraries
+# built-in
 import pathlib
 from typing import List, Dict, Tuple
 
-# installed libraries
+# installed
 import torch
 from torch.utils.data import Dataset
 import numpy as np

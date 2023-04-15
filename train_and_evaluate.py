@@ -1,7 +1,7 @@
-# built-in libraries
+# built-in
 from typing import Tuple
 
-# installed libraries
+# installed
 import numpy as np
 import torch
 import torch.nn as nn
@@ -9,7 +9,7 @@ from torch.utils.data import DataLoader
 import seaborn as sns
 from sklearn.metrics import confusion_matrix, f1_score
 
-# local libraries
+# local
 from utils.models import RNN
 
 
